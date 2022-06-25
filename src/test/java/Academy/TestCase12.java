@@ -1,10 +1,11 @@
 package Academy;
 
-public class TestCase11 {
+public class TestCase12 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Bye Wordgit");
+		
+		System.out.println("Hey World This is Praveen");
 
 	}
 
